@@ -1,4 +1,4 @@
-I'm a Data Scientist/Engineer, BSc in Statistics.
+I'm a Data Scientist & Engineer, BSc in Statistics.
 
 - 🔭 I’m currently working on a [Kaagle Competition](https://www.kaggle.com/c/optiver-realized-volatility-prediction).
 - 🌱 I’m currently learning **Complexity Metrics and Non-Parametric Bootstrap for Time Series**.
