@@ -1,16 +1,16 @@
-### Hi there 👋
+I'm a Data Scientist/Engineer, BSc in Statistics.
 
-<!--
-**Martins6/Martins6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a [Kaagle Competition](https://www.kaggle.com/c/optiver-realized-volatility-prediction).
+- 🌱 I’m currently learning **Complexity Metrics and Non-Parametric Bootstrap for Time Series**.
+- 📚 I'm fascinated by _Time Series, Spatial Statistics and Deep Learning_.
 
-Here are some ideas to get you started:
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
+- [Kaagle](https://www.kaggle.com/adrielmartins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
