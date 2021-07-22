@@ -18,6 +18,6 @@ I'm a Data Scientist & Engineer, BSc in Statistics.
 
 ### Open-Source Projects that I contribute
 
-Besides everything on my repositories, there are also some projects that I've contributed to.
+Besides everything on my [repositories](https://github.com/Martins6?tab=repositories), there are also some projects that I've contributed to.
 
 * [Jarvis](https://github.com/sukeesh/Jarvis)
