@@ -1,6 +1,6 @@
 I'm a Data Scientist & Engineer, BSc in Statistics.
 
-- 🔭 I’m currently working on a [Kaagle Competition](https://www.kaggle.com/c/optiver-realized-volatility-prediction).
+- 🔭 I’m currently working on a research paper in the topic of Econophysics.
 - 🌱 I’m currently learning **Complexity Metrics and Non-Parametric Bootstrap for Time Series**.
 - 📚 I'm fascinated by _Time Series, Spatial Statistics and Deep Learning_.
 
