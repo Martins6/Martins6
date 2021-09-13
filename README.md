@@ -1,4 +1,4 @@
-I'm a Data Scientist & Engineer, BSc in Statistics.
+I'm a Data Scientist, BSc in Statistics.
 
 - 🔭 I’m currently working on a research paper in the topic of _Econophysics_.
 - 🌱 I’m currently learning **Complexity Metrics and Non-Parametric Bootstrap for Time Series**.
