@@ -1,7 +1,7 @@
 I'm a Data Scientist, BSc in Statistics.
 
-- 🔭 I’m currently working on a research paper in the topic of _Econophysics_.
-- 🌱 I’m currently learning **Complexity Metrics and Non-Parametric Bootstrap for Time Series**.
+- 🔭 I’m currently working on _Recommendation Systems (or models)_.
+- 🌱 I’m currently focused on **Matrix Factorization**.
 - 📚 I'm fascinated by _Time Series, Spatial Statistics and Deep Learning_.
 
 ### Connect with me:
