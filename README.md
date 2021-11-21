@@ -1,8 +1,8 @@
 I'm a Data Scientist, BSc in Statistics.
 
 - 🔭 I’m currently working on _Recommendation Systems (or models)_.
-- 🌱 I’m currently focused on **Matrix Factorization**.
-- 📚 I'm fascinated by _Time Series, Spatial Statistics and Deep Learning_.
+- 🌱 I’m currently focused on **Deep Neural Networks**.
+- 📚 I'm fascinated by _NLP, Deep Learning, Time Series and Spatial Statistics_.
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
