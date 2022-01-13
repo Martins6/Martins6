@@ -1,7 +1,7 @@
 I'm a Data Scientist, BSc in Statistics.
 
 - 🔭 I’m currently working on _Recommendation Systems (or models)_.
-- 🌱 I’m currently focused on **Deep Neural Networks**.
+- 🌱 I’m currently focused on **Natural Language Processing (NLP)**.
 - 📚 I'm fascinated by _NLP, Deep Learning, Time Series and Spatial Statistics_.
 
 ### Connect with me:
