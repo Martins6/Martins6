@@ -1,8 +1,8 @@
 I'm a Data Scientist, BSc in Statistics.
 
 - 🔭 I’m currently working on _Recommendation Systems (or models)_.
-- 🌱 I’m currently focused on **Natural Language Processing (NLP)**.
-- 📚 I'm fascinated by _NLP, Deep Learning, Time Series and Spatial Statistics_.
+- 🌱 I’m currently focused on **Computer Vision**.
+- 📚 I'm fascinated by _NLP, Computer Vision, Time Series and Spatial Statistics_.
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
