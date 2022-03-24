@@ -1,6 +1,6 @@
 I'm a Data Scientist, BSc in Statistics.
 
-- 🔭 I’m currently working on _Recommendation Systems (or models)_.
+- 🔭 I’m currently working on _Sequence Modelling (or Categorical Time Series Modelling)_.
 - 🌱 I’m currently focused on studying **Computer Vision**.
 - 📚 I'm fascinated by _NLP, Computer Vision, Time Series and Spatial Statistics_.
 
