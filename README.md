@@ -1,10 +1,10 @@
 I'm a Data Scientist, BSc in Statistics.
 
 - 🔭 I’m currently working on _Sequence Modelling (or Categorical Time Series Modelling)_.
-- 🌱 I’m currently focused on studying **Computer Vision**.
-- 📚 I'm fascinated by _NLP, Computer Vision, Time Series and Spatial Statistics_.
+- 🌱 I’m currently focused on studying **NLP**.
+- 📚 I'm fascinated by _NLP, Remote Sensoring (satellites), Time Series and Spatial Statistics_.
 
-### Connect with me:
+### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
 - [Kaagle](https://www.kaggle.com/adrielmartins)
 
