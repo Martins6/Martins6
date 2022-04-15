@@ -2,7 +2,7 @@ I'm a Data Scientist, BSc in Statistics.
 
 - 🔭 I’m currently working on **_Sequence Modelling_**.
 - 🌱 I’m currently focused on studying **NLP**.
-- 💬 Ask me about **_NLP, Remote Sensoring (satellites), Time Series and Spatial Statistics_**! I'm fascinated by those topics.
+- 💬 Ask me about _NLP, Remote Sensoring (satellites), Time Series and Spatial Statistics_! I'm fascinated by those topics.
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
