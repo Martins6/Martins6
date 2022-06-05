@@ -1,13 +1,13 @@
 I'm a Data Scientist, BSc in Statistics.
 
-- 🔭 I’m currently working on and studying **_Sequence Modelling_**.
+- 🔭 I’m currently working on and studying **_Topic Modelling_**.
 - 📖 I'm fascinated about the following topics:
-  - Deep Learning
   - Recommendation Systems
   - NLP
   - Remote Sensoring (satellites)
   - Time Series
   - Spatial Statistics
+  - Deep Learning
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
