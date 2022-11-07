@@ -1,10 +1,10 @@
 I'm a Data Scientist, BSc in Statistics.
 
-- 🔭 I’m currently working on and studying **_Topic Modelling_**.
+- 🔭 I’m currently studying **Causal Inference**.
 - 📖 I'm fascinated about the following topics:
   - Recommendation Systems
   - NLP
-  - Remote Sensoring (satellites)
+  - Network Science
   - Time Series
   - Spatial Statistics
   - Deep Learning
