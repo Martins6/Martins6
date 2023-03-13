@@ -1,6 +1,6 @@
 I'm a Data Scientist | Machine Learning Engineer.
 
-🧑‍🎓 I have a BSc in Statistics and I'm a grad student in Computer Science.
+:books: I have a BSc in Statistics and I'm a grad student in Computer Science.
 
 - 🔭 I’m currently studying **Genetic Programming (GP)**.
 - 📖 I'm fascinated about the following topics:
