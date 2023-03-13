@@ -1,13 +1,16 @@
-I'm a Data Scientist, BSc in Statistics.
+I'm a Data Scientist | Machine Learning Engineer.
 
-- 🔭 I’m currently studying **Causal Inference**.
+🧑‍🎓 I have a BSc in Statistics and I'm a grad student in Computer Science.
+
+- 🔭 I’m currently studying **Genetic Programming (GP)**.
 - 📖 I'm fascinated about the following topics:
-  - Recommendation Systems
-  - NLP
+  - Natural Language Processing (NLP)
   - Network Science
+  - Conformal Prediction (CP)
+  - Recommendation Systems
   - Time Series
   - Spatial Statistics
-  - Deep Learning
+  - Causal Inference
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
