@@ -2,9 +2,8 @@ I'm a Data Scientist | Machine Learning Engineer.
 
 :books: I have a BSc in Statistics and I'm a grad student in Computer Science.
 
-- 🔭 I’m currently studying **Genetic Programming (GP)**.
-- 📖 I'm fascinated about the following topics:
-  - Natural Language Processing (NLP)
+- 🔭 I’m currently studying **Genetic Programming (GP)** and **Natural Language Processing (NLP)**.
+- 📖 I'm also fascinated about the following topics:
   - Conformal Prediction (CP)
   - Network Science
   - Recommendation Systems
