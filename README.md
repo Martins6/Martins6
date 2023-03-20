@@ -8,7 +8,7 @@ I'm a Data Scientist | Machine Learning Engineer.
   - **Genetic Programming (GP)**
   - **Natural Language Processing (NLP)**.
 
-📖 I'm also fascinated about the following topics:
+📖  I'm also fascinated about the following topics:
   - Conformal Prediction (CP)
   - Network Science
   - Recommendation Systems
