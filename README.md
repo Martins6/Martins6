@@ -6,9 +6,10 @@ I'm a Data Scientist | Machine Learning Engineer.
 
 🔭 I’m currently studying:
   - **Genetic Programming (GP)**
-  - **Natural Language Processing (NLP)**.
+  - **Graph Neural Networks (GNN)**.
 
 📖  I'm also fascinated about the following topics:
+  - Natural Language Processing (NLP)
   - Conformal Prediction (CP)
   - Network Science
   - Recommendation Systems
