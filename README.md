@@ -5,7 +5,7 @@ I'm a Data Scientist | Machine Learning Engineer.
   - Master's student in Computer Science.
 
 🔭 I’m currently studying:
-  - **Genetic Programming (GP)**
+  - **Evolutionary Computation (EC)**
   - **Graph Neural Networks (GNN)**.
 
 📖  I'm also fascinated about the following topics:
