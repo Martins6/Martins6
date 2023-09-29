@@ -10,7 +10,7 @@ I'm a Machine Learning Engineer and AI Researcher.
 
 📖  I'm also fascinated about the following topics:
   - Natural Language Processing (NLP)
-  - Knowledge Bases (KB)
+  - Knowledge Graph
   - AI in Robotics
 
 ### Connect with me and start a chat:
