@@ -22,7 +22,7 @@ I'm a Machine Learning Engineer and AI Researcher.
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
-- [Email](am.adriel.martins@gmail.com)
+- Email: [am.adriel.martins@gmail.com](mailto:am.adriel.martins@gmail.com)
 
 ### Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
