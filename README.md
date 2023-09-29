@@ -17,6 +17,7 @@ I'm a Machine Learning Engineer and AI Researcher.
   - AI in Robotics
     - Control Systems & Reinforcement Learning
     - Pose Estimation
+    - Semantic Task Completion
     - etc.
 
 ### Connect with me and start a chat:
