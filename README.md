@@ -1,4 +1,4 @@
-I'm a Data Scientist | Machine Learning Engineer.
+I'm a Machine Learning Engineer and AI Researcher.
 
 :books: Academic background:
   - BSc in Statistics.
@@ -10,12 +10,8 @@ I'm a Data Scientist | Machine Learning Engineer.
 
 📖  I'm also fascinated about the following topics:
   - Natural Language Processing (NLP)
-  - Conformal Prediction (CP)
-  - Network Science
-  - Recommendation Systems
-  - Time Series
-  - Spatial Statistics
-  - Causal Inference
+  - Knowledge Bases (KB)
+  - AI in Robotics
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
