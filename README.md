@@ -9,16 +9,16 @@ I'm a Machine Learning Engineer and AI Researcher.
   - **Graph Neural Networks (GNN)**.
 
 📖  I'm also fascinated about the following topics:
+  - Self-supervised learning
   - Natural Language Processing (NLP)
     - Large Language Models (LLMs)
     - Knowledge Graphs
     - Natural Language Inference (NLI)
     - etc.
   - AI in Robotics
-    - Control Systems & Reinforcement Learning
-    - Pose Estimation
+    - Control Systems
     - Semantic Task Completion
-    - etc.
+  - Metaverse (2D images to 3D models)
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
