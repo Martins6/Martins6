@@ -9,6 +9,7 @@ I'm a Machine Learning Engineer and AI Researcher.
   - **Graph Neural Networks (GNN)**.
 
 📖  I'm also fascinated about the following topics:
+  - Autonomous Machine Intelligence
   - Self-supervised learning
   - Natural Language Processing (NLP)
     - Large Language Models (LLMs)
