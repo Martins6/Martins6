@@ -10,11 +10,9 @@ I'm a Machine Learning Engineer and AI Researcher.
 
 📖  I'm also fascinated about the following topics:
   - Autonomous Machine Intelligence
-  - Self-supervised learning
   - Natural Language Processing (NLP)
     - Large Language Models (LLMs)
     - Knowledge Graphs
-    - Natural Language Inference (NLI)
     - etc.
   - AI in Robotics
     - Control Systems
