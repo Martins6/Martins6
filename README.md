@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer and AI Researcher.
     - Large Language Models (LLMs)
     - Knowledge Graphs
     - etc.
-  - AI in Robotics
+  - AI in Robotics or Embodied AI
     - Control Systems
     - Semantic Task Completion
   - Metaverse (2D images to 3D models)
