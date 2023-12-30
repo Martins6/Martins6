@@ -15,7 +15,7 @@ I'm a Machine Learning Engineer and AI Researcher.
     - Semantic Task Completion
   - Natural Language Processing (NLP)
     - Large Language Models (LLMs)
-    - Knowledge Graphs
+    - Information Retrieval
     - etc.
   - Metaverse (2D images to 3D models)
 
