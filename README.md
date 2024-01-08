@@ -11,8 +11,8 @@ I'm a Machine Learning Engineer and AI Researcher.
 📖  I'm also fascinated about the following topics:
   - Autonomous Machine Intelligence
   - Embodied AI (robotics)
-    - Control Systems
-    - Semantic Task Completion
+    - Imitation Learning
+    - Robot-at-home
   - Natural Language Processing (NLP)
     - Large Language Models (LLMs)
     - Information Retrieval
