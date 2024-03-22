@@ -20,7 +20,7 @@ I'm a Machine Learning Engineer and AI Researcher.
   - Metaverse (2D images to 3D models)
 
 ### Connect with me and start a chat:
-- [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
+- [LinkedIn](https://www.linkedin.com/in/adriel-martins-5aa30b2b1/)
 - Email: [am.adriel.martins@gmail.com](mailto:am.adriel.martins@gmail.com)
 
 ### Tools:
