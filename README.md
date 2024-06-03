@@ -7,16 +7,12 @@ I'm a Machine Learning Engineer and AI Researcher.
 🔭 I’m currently studying:
   - **Evolutionary Computation (EC)**
   - **Graph Neural Networks (GNN)**.
+  - **Robotics Grasping**
 
 📖  I'm also fascinated about the following topics:
   - Autonomous Machine Intelligence
   - Robot Learning / Embodied AI
-    - Imitation Learning
-    - Robot-at-home
-  - Natural Language Processing (NLP)
-    - Large Language Models (LLMs)
-    - Information Retrieval
-    - etc.
+  - Multimodal AI
   - 2D images to 3D models
 
 ### Connect with me and start a chat:
