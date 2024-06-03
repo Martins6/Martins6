@@ -17,7 +17,7 @@ I'm a Machine Learning Engineer and AI Researcher.
     - Large Language Models (LLMs)
     - Information Retrieval
     - etc.
-  - Metaverse (2D images to 3D models)
+  - 2D images to 3D models
 
 ### Connect with me and start a chat:
 - [LinkedIn](https://www.linkedin.com/in/adriel-martins-5aa30b2b1/)
