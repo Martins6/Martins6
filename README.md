@@ -1,4 +1,4 @@
-I'm a Machine Learning Engineer and AI Researcher.
+I'm a Data Scientist, Machine Learning Engineer and AI Researcher.
 
 :books: Academic background:
   - BSc in Statistics.
