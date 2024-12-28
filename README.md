@@ -6,8 +6,8 @@ I'm a Data Scientist, Machine Learning Engineer and AI Researcher.
 
 🔭 I’m currently studying:
   - **Evolutionary Computation (EC)**
-  - **Graph Neural Networks (GNN)**.
-  - **Robotic Grasping**
+  - **Graph Neural Networks (GNN)**
+  - **Large Language Models (LLM)**
 
 📖  I'm also fascinated about the following topics:
   - Autonomous Machine Intelligence
